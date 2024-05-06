@@ -1,0 +1,6 @@
+ipykernel
+selenium
+webdriver_manager
+Pillow
+pywhatkit
+ascii_magic
